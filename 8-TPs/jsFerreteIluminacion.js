@@ -8,7 +8,17 @@ E.	Si el importe final con descuento suma más de $120  se debe sumar un 10% de 
  ”Usted pago X de IIBB.”, siendo X el impuesto que se pagó. 
 
  */
-function CalcularPrecio () 
-{
- 	
+function CalcularPrecio() {
+    var cantidad;
+    var precio;
+    var marca;
+
+   
+    cantidad = parseFloat(document.getElementById("Cantidad").value);
+    precio = parseFloat(document.getElementById("precioDescuento").value);
+    marca = document.getElementById("Marca").value;
+
+    
+
+
 }
