@@ -12,7 +12,7 @@ case "Abril":
 case "Mayo":
 case "Junio":
 
-alert("Falta para culear");
+alert("Falta para la bikini");
 break;
 
 case "Julio":
